@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Cdhplfscomplaintsdraft1 by GXWilson</title>
+    <title>CdhplfscomplaintsFAQs by GXWilson</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -12,7 +12,7 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">Laboratory Field Services</h1>
-      <h2 class="project-tagline">Questions, concerns, and complaints</h2>
+      <h2 class="project-tagline">Frequently Asked Questions</h2>
       <a href="#" class="btn">About Laboratory Field Services</a>
       <a href="#" class="btn">LFS Forms and Publications</a>
       <a href="#" class="btn">Complaint FAQs</a>
@@ -21,9 +21,9 @@
 
     <section class="main-content">
       <h1>
-<a id="cdph-lfs-complaints-draft-1" class="anchor" href="#cdph-lfs-complaints-draft-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Frequently Asked Questions</h1>
+<a id="cdph-lfs-complaints-draft-1" class="anchor" href="#cdph-lfs-complaints-draft-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>FAQs</h1>
 
-<p>complaints page organizational draft</p>
+<p>Below is a list of frequently asked questions to help you understand the role of LFS.</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/GXWilson/cdhplfscomplaintsdraft1">Cdhplfscomplaintsdraft1</a> is maintained by <a href="https://github.com/GXWilson">GXWilson</a>.</span>
